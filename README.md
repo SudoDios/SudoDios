@@ -4,7 +4,7 @@ I'm Sudo Dios
 
 #### My current situation :
 
-Focusing on rust language & networking
+Focusing on Rust 🦀 language & Networking
 
 #### My Note :
 
